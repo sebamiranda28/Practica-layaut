@@ -1,0 +1,104 @@
+body {
+  background: #131415;
+}
+
+.Título-bloque {
+  border: 5px solid blue;
+  padding: 10px;
+  border-radius: 16px;
+  color: #fff;
+  font-size: 40px;
+  text-decoration: underline;
+}
+
+.Subtitulo-bloque {
+  border: 5px dashed yellow;
+  padding: 10px;
+  border-radius: 16px;
+  color: #fff;
+  font-size: 30px;
+  text-decoration: line-through;
+}
+
+.Primer-párrafo {
+  border: 5px dotted blue;
+  padding: 10px;
+  border-radius: 16px;
+  color: #fff;
+  font-size: 20px;
+  text-decoration: overline;
+}
+
+/* Listas ordenadas */
+
+.Número-uno {
+  border: 5px solid green;
+  color: #fff;
+  border-radius: 16px;
+  font-size: 18px;
+}
+
+.Número-dos {
+  border: 5px solid blue;
+  padding: 10px;
+  border-radius: 16px;
+  color: #fff;
+  margin-top: 10px;
+  font-size: 16px;
+}
+
+.Número-tres {
+  border: 5px solid red;
+  padding: 10px;
+  color: #fff;
+  border-radius: 16px;
+  font-size: 14px;
+  margin-top: 10px;
+}
+
+.Número-cuatro {
+  border: 5px solid yellow;
+  padding: 10px;
+  color: #fff;
+  border-radius: 16px;
+  margin-top: 10px;
+  font-size: 12px;
+}
+
+/* Lista desordenada */
+.Lista-desordenada {
+  color: #fff;
+  text-decoration: underline;
+  font-size: 24px;
+}
+
+.Primer-elemento {
+  border: 5px dashed #8c54fb;
+  border-radius: 16px;
+  color: #fff;
+  font-size: 18px;
+}
+
+.Segundo-elemento {
+  border: 5px dashed crimson;
+  border-radius: 16px;
+  color: #fff;
+  font-size: 18px;
+  margin-top: 10px;
+}
+
+.Tercer-elemento {
+  border: 5px dashed yellow;
+  border-radius: 16px;
+  color: #fff;
+  font-size: 18px;
+  margin-top: 10px;
+}
+
+.Cuarto-elemento {
+  border: 5px dashed blue;
+  padding: 10px;
+  border-radius: 16px;
+  color: #fff;
+  margin-top: 10px;
+}
